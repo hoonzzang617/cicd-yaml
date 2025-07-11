@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: hoonzzang/myweb-cicd:latest
+        image: hoonzzang/myweb-cicd:3
         ports:
         - containerPort: 8080
